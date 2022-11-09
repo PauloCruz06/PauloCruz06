@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Paulo! 👋
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-cruz-7a254758)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCruz06&show_icons=true&theme=gotham)
 
 <!--
 **PauloCruz06/PauloCruz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
