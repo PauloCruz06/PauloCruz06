@@ -1,5 +1,4 @@
 ## Olá, eu sou o Paulo! 👋
-Oi, eu sou o Paulo 👋, muito prazer!
 
 Estou mais ou menos um ano em estudo e prática na área de desenvolvimento web. Acabei me deparando com programação mais profundamente devido a uma oportunidade de participar do bootcamp da Driven Education onde percebi que eu possuía facilidade e também muita vontade de trabalhar como desenvolvedor.
 
