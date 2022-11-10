@@ -1,4 +1,18 @@
 ## Olá, eu sou o Paulo! 👋
+Oi, eu sou o Paulo 👋, muito prazer!
+
+Estou mais ou menos um ano em estudo e prática na área de desenvolvimento web. Acabei me deparando com programação mais profundamente devido a uma oportunidade de participar do bootcamp da Driven Education onde percebi que eu possuía facilidade e também muita vontade de trabalhar como desenvolvedor.
+
+Além da formação em desenvolvimento Full Stack, estou cursando ciências e tecnologia na UFRN. Na universidade tive bastante contato com o ambiente acadêmico e com programação que apesar de voltada para parte científica, serviu de base para começar a jornada que eu sigo atualmente.
+
+Já tive experiência trabalhando como estagiário por dois anos com suporte e manutenção de computadores, embora não seja uma área que trabalha necessariamente com programação ela compartilha em essência um conceito que está presente na engenharia, na programação e em mim: capacidade de identificar, analisar e resolver problemas de maneira ética e sociável.
+
+Tecnologias que aprendi: 
+- ⚛️ FrontEnd: HTML, CSS, JavaScript, ReactJS.
+- 🖥 BackEnd: NodeJS, ExpressJS, TypeScript, API REST, MongoDB, PostgreSQL, PrismaORM, Redis.
+- 🚀 DevOps: Docker, AWS, CI/CD, GitHub Actions.
+- 🤝 Grupo: Git, Slack, Trello, Scrum, Zoom.
+- ✨ Outros: Jest, Cypress, SuperTest, C++, POO, Phaser. 
 
 ### :telephone_receiver: Fale comigo! 
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulo-oliveira14@hotmail.com)
