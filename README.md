@@ -1,6 +1,6 @@
 ## Olá, eu sou o Paulo! 👋
 
-Estou mais ou menos um ano em estudo e prática na área de desenvolvimento web. Acabei me deparando com programação mais profundamente devido a uma oportunidade de participar do bootcamp da Driven Education onde percebi que eu possuía facilidade e também muita vontade de trabalhar como desenvolvedor.
+Estou mais ou menos um ano em estudo e prática na área de desenvolvimento web. Acabei me deparando com programação mais profundamente devido a uma oportunidade de participar de um bootcamp em desenvolvimento web FullStack onde percebi que eu possuía facilidade e também muita vontade de trabalhar como desenvolvedor.
 
 Além da formação em desenvolvimento Full Stack, estou cursando ciências e tecnologia na UFRN. Na universidade tive bastante contato com o ambiente acadêmico e com programação que apesar de voltada para parte científica, serviu de base para começar a jornada que eu sigo atualmente.
 
